@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body{
+    background-color: #cccccc;    
+}
+
+.card{
+    background-image: url("../imgs/backgorund.png");
+    width: 400px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 30px;
+    box-shadow: 2px 2px 5px rgb(104, 104, 104);
+}
+
+ul{
+    padding-top: 0px;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.name{
+    font-size: 25px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.insta{
+    font-size: 1.25em;
+    list-style-image: url("../imgs/Insta.png");
+    list-style-position: inside;
+}
+
+.twitter{
+    font-size: 1.25em;
+    list-style-image: url("../imgs/Twitter.png");
+    list-style-position: inside;    
+}
+
+.youtube{
+    font-size: 1.25em;
+    list-style-image: url("../imgs/Youtube.png");
+    list-style-position: inside;
+}
+
+
